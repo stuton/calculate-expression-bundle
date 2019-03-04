@@ -8,7 +8,7 @@
         }
     ]`
 2. and execute the command:
-`composer require stuton/math-bundle:^1.0`
+`composer require stuton/math-bundle`
 
 
 
