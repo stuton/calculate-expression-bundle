@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/stuton/calculate-expression-bundle.svg?branch=master)](https://travis-ci.com/stuton/calculate-expression-bundle)
+[![Build Status](https://travis-ci.com/stuton/calculate-expression-bundle.svg?branch=master)](https://travis-ci.org/stuton/calculate-expression-bundle)
 
 1. add this section to your composer.json:
 `"repositories":[
