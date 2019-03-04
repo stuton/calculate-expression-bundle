@@ -1,0 +1,4 @@
+services:
+  stuton\CalculateExpressionBundle\Entity\CalculateExpressionInterface:
+    tags:
+      - calculate.expression.service
